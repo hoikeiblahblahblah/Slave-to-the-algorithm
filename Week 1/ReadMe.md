@@ -1,3 +1,4 @@
-<h1>WK 1<h1>
-Thoughts and observations
-<img scr="Week 1/Parameters.png">
+# WK 1 Thoughts and observations
+
+The very first class introduced us to generative art. 
+<img scr="Parameters.png">
