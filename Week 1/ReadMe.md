@@ -1,4 +1,7 @@
-# WK 1 Thoughts and observations
+# WK 1 thoughts and observations
 
 The very first class introduced us to generative art. 
-<img scr="Parameters.png">
+
+
+![](Week1/Parameters.png)
+
