@@ -6,5 +6,5 @@ After which, we had an analogue design game with our group. We get to decide the
 
 ![](Parameters.png)
 
-![](
+![](game.png)
 
