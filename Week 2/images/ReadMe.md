@@ -1,1 +1,1 @@
-#images are located here
+images are located here
