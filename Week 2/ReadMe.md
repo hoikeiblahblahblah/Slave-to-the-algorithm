@@ -90,11 +90,11 @@ ellipse (-30, -40, 40,40);
 fill (0);
 ellipse (0-mouseX/20, -40, 15,15);
 ellipse (mouseX/20, -40, 15,15);
-
-//translate(-250,-250);
-//ellipse (mouseX, mouseY, 10,10);
 }
 ```
+
 ![](images/remix.png)
+
+
 
 
