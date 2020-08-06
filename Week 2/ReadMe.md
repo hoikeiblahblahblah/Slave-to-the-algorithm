@@ -51,8 +51,7 @@ We started the experiment with just a simple line of code by setting up a canvas
 
 ![](images/portrait.jpg)
 
-**Remix**
-
+**Remix**<br/>
 I remixed Cornor’s artwork. I used mouseX and mouseY function to make the design interactive, and added mousePressed function. So user can draw the hair of the character and erase it when they are not satisfy. 
 
     void setup(){
