@@ -52,7 +52,7 @@ background (mouseY/2, (mouseY+mouseX)/4,250-mouseX/2);
 ![](images/portrait.jpg)
 
 **Remix**<br/>
-I remixed Cornor’s artwork. I used mouseX and mouseY function to make the design interactive, and added mousePressed function. So user can draw the hair of the character and erase it when they are not satisfy. 
+I remixed Connor’s portrait. I used mouseX and mouseY function to make the design interactive, and added mousePressed function. So user can draw the hair of the character and erase it when they are not satisfy with the hairstyle. 
 ```javascript
 void setup(){
 background(247,198,59);
