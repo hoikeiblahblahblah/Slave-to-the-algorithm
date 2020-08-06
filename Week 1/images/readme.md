@@ -1,1 +1,1 @@
-images would be located here
+images are located here
