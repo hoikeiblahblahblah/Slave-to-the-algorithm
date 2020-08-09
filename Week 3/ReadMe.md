@@ -13,8 +13,8 @@ Joseph DeLappe
 **Machine Drawing**<br/>
 We had a fun activity this week, using materials we have in our home to make a drawing machine. I simply tied the oil pastel to the cat teaser and let my cat draw it, recorded the movements of her playing her toy. She was very curious at first but she lost her interest after a while. The result is quite random but surprising, the drawing is composed by curves and spots. 
 
-![](images/catteaser.jpg)
+![](images/catteaser.JPG)
 
-![](images/machinedrawing.jpg)
+![](images/machinedrawing.JPG)
 
-
+![](images/cat.MOV)
