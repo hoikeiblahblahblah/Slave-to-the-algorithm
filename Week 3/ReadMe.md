@@ -17,4 +17,5 @@ We had a fun activity this week, using materials we have in our home to make a d
 
 ![](images/machinedrawing.JPG)
 
-![](images/cat.MOV)
+**Project pitch direction** <br>
+Through the readings and research I’ve done, I am very interested in generative design that’s interactive and animation design that changes with the variable parameters. 
