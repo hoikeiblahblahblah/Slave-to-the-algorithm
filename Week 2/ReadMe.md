@@ -48,8 +48,7 @@ void keyPressed(){
 background (mouseY/2, (mouseY+mouseX)/4,250-mouseX/2);
 }
 ```
-
-![](images/portrait.jpg)
+<img src="images/portrait.jpg" width="500">
 
 **Remix**<br/>
 I remixed Connor’s portrait. I used mouseX and mouseY function to make the design interactive, and added mousePressed function. So user can draw the hair of the character and erase it when they are not satisfy with the hairstyle. 
@@ -93,7 +92,8 @@ ellipse (mouseX/20, -40, 15,15);
 }
 ```
 
-![](images/remix.png)
+<img src="images/remix.png" width="500">
+
 
 
 
