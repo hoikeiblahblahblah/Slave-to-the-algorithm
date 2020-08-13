@@ -13,9 +13,9 @@ Joseph DeLappe
 **Machine Drawing**<br/>
 We had a fun activity this week, using materials we have in our home to make a drawing machine. I simply tied the oil pastel to the cat teaser and let my cat draw it, recorded the movements of her playing her toy. She was very curious at first but she lost her interest after a while. The result is quite random but surprising, the drawing is composed by curves and spots. 
 
-<img src="images/catteaser.JPG" width="400">
+<img src="images/catteaser.JPG" width="500">
 
-<img src="images/machinedrawing.JPG" width="400">
+<img src="images/machinedrawing.JPG" width="1000">
 
 **Project pitch direction** <br>
 Through the readings and research I’ve done, I am very interested in generative design that’s interactive and animation design that changes with the variable parameters. 
