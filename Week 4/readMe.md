@@ -1,7 +1,8 @@
+# Coding Session
+
 We’ve started today’s session with coding integrating texts, images and interactive elements in processing. We had experimented sketch by importing a webcam to the processing canvas and it was fun, and we can even choose different typefaces of display texts. 
 
-# Spinning fonts 
-
+**Spinning fonts**
 ```javascript
 PFont helvNeue,bookMan, helv;
 float spin=0;
@@ -46,7 +47,7 @@ void keyPressed(){
 
 <img src="images/fonts.png" width="500">
 
-# Draw with texts
+**Draw with texts**
 
 ```javascript
 PFont myfont; //initiating 
@@ -83,7 +84,7 @@ void keyPressed(){
 
 <img src="images/drawwithtext.png" width="500">
 
-# import photo
+**Import photo**
 
 ```javascript
 PImage photo; //there will be a varaiable that we call it photo 
@@ -123,4 +124,23 @@ ellipse(x, y, dotSize,dotSize); //this draws the circle with the color values
 ```
 
 <img src="images/photo.png" width="500">
+
+# Researches 
+
+I did some brainstorming and researches regarding the topic I chose. The whole idea came from the stage 4 lockdown in Melbourne, people might experience a wide range of thoughts and feeling disconnected from others. Changes to the usual ways of life can make people feel anxious, severing social support as part of an imposed quarantine or isolation strategy can threaten an individual's sense of connectedness. This makes me question myself if there’s a way to alleviate the anxious feelings during isolation/stage 4 lockdown. So I started my project with researches that also explore relationships. 
+
+**Teamlab**<br/>
+Borderless is an art experience created by groups of creatives from different industrial fields. The space holds a collection of eight distinct installations which pushes the boundaries of immersive art. The installations aim to examine the way we experience art, attempting to dissolve the invisible boundaries between the two in a metaphorical reference to our perception of borders between various elements we encounter as humans in our lifetime.
+
+The artwork is created by a computer program that continuously renders the work in real time. The interaction between people and the installation causes continuous change in the artwork: previous visual states can never be replicated, and will never reoccur. 
+
+**Between Mind & Matter**<br/>
+Similar to the Borderless, Nick Verstand created installation that explores the subtle and diffuse transition space between physical and perceived reality. The exhibition creates an audiovisual environment, engaging with visitors during extended interactions and enhances their human experience. Visitors were equipped with multiple biosensors that register brainwaves, heart-rate variability. Then the emotional data was analysed and metamorphosed into different forms, colours and intensities of light that were beamed onto them from above. 
+
+Both case studies falls under the community of immersive art or interactive art specifically, immersive art enables everyone to feel much included. It constitutes a dialogue between the artwork and the participant, to enhance the experience of the installation. And these researches actually inspired me on how I can execute my idea through interactive art. 
+
+**Utopia**<br/>
+The idea was to track data of anything that can move, for instance birds flying, wind’s effect on tree, or even pedestrians passing by. The motion data will then process through the design system and generate artwork according to the movements. Alternatively , capture my own body movements or heartbeat and project myself outdoor, creates an illusion of getting back to normal social life, where we can hangout with friends and families like we used to do. The dynamic artwork can be projected indoor on the wall, creates a vibrant, interactive post lockdown world -- Utopia. 
+
+
 
