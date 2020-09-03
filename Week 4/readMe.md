@@ -134,10 +134,14 @@ Borderless is an art experience created by groups of creatives from different in
 
 The artwork is created by a computer program that continuously renders the work in real time. The interaction between people and the installation causes continuous change in the artwork: previous visual states can never be replicated, and will never reoccur. 
 
+<img src="images/teamlab.png">
+
 **Between Mind & Matter**<br/>
 Similar to the Borderless, Nick Verstand created installation that explores the subtle and diffuse transition space between physical and perceived reality. The exhibition creates an audiovisual environment, engaging with visitors during extended interactions and enhances their human experience. Visitors were equipped with multiple biosensors that register brainwaves, heart-rate variability. Then the emotional data was analysed and metamorphosed into different forms, colours and intensities of light that were beamed onto them from above. 
 
 Both case studies falls under the community of immersive art or interactive art specifically, immersive art enables everyone to feel much included. It constitutes a dialogue between the artwork and the participant, to enhance the experience of the installation. And these researches actually inspired me on how I can execute my idea through interactive art. 
+
+<img src="images/nickverstand.png">
 
 **Utopia**<br/>
 The idea was to track data of anything that can move, for instance birds flying, wind’s effect on tree, or even pedestrians passing by. The motion data will then process through the design system and generate artwork according to the movements. Alternatively , capture my own body movements or heartbeat and project myself outdoor, creates an illusion of getting back to normal social life, where we can hangout with friends and families like we used to do. The dynamic artwork can be projected indoor on the wall, creates a vibrant, interactive post lockdown world -- Utopia. 
