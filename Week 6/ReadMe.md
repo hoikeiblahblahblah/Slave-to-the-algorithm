@@ -1,7 +1,10 @@
-**Paper prototype**<br/>
+**Group Discussion**<br/>
+At the beginning of the class, we split into small groups regarding the technologies related to our projects. We discussed about what sensors are needed in our projects and it was interesting to hear what others think and share knowledge regarding this. 
+
+**Paper Prototype**<br/>
 During the short workshop Andy host, we were divided into different groups to make a quick paper prototype of a 2D game, this activity helps us to better understand the algorithm and quickly generate concept. We were given 10 minutes and choose the game — Super Mario. 
 
-**Coding workshop | p5js sound features**<br/>
+**Coding Workshop | p5js sound features**<br/>
 ``` javascript
 var song; //give a name to song variable
 var analyzer;
