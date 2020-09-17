@@ -22,8 +22,10 @@ And here's the pseudocode for my project:<br/>
 
 **ELSE IF** no motion data collected <br/>
 	 do not generate artwork<br/>
-
 **END IF** 
+
+**Paper Prototype**<br/>
+<img src = "images/prototype.gif">
 
 **Coding Workshop | Random Letters**<br/>
 ```javascript
