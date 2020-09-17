@@ -1,8 +1,29 @@
 **One Minute Presentation**<br/>
 I will stick to my previous idea, basically to generate artworks that helps to alleviate the anxious feelings during the lockdowns. During the week, I did some coding regarding the graphic outcomes and im still working on it. The biggest challenge for my project is to collect raw data successfully via kinetic sensor, it works easier on windows system but I don’t have one currently. 
 
-**PseudoCode**
+**PseudoCode**<br/>
+After the presentation, we learnt how to write our own pseudocode and here’s my quick example:
+**FUNCTION** Making a cup of tea<br/>
+**INPUT** teabag<br/>
+**IF** no hot water<br/>
+	      Boil water<br/>
+**ELSE** pour hot water in cup<br/>
+**WHILE** put teabag in cup <br/>
+**END IF**<br/>
 
+And here's the pseudocode for my project:<br/>
+**FUNCTION** Utopia<br/>
+**INPUT** motion data<br/>
+**IF** object moves <br/>
+	**FUNCTION** generate artwork<br/>
+	**IF** movement continues <br/>
+	    continue to generate artwork<br/>
+	**ELSE** stop generating artwork if movement stops<br/>
+
+**ELSE IF** no motion data collected <br/>
+	 do not generate artwork<br/>
+
+**END IF** 
 
 **Coding Workshop | Random Letters**<br/>
 ```javascript
