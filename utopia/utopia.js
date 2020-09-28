@@ -1,19 +1,8 @@
-/*
-Magical trail shader 2
-
-Inspired by takawo's sketch:
+/*Particle system 
+Inspired by Jason Labbe and takawo's sketch:
   https://www.openprocessing.org/sketch/853212
-
-Author:
-  Jason Labbe
-
-Site:
-  jasonlabbe3d.com
- 
-Controls:
-  - Move the mouse to create particles.
-  - Hold the middle mouse button to fade away particles.
 */
+
 
 const MAX_TRAIL_COUNT = 30;
 
