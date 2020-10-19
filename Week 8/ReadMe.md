@@ -11,6 +11,6 @@ However, if there’s more than one object detected, the circle will be wiggling
 <img src = "images/multipleobject.gif">
 
 Besides that, the depth image I’m getting from kinetic v2 sensor has a width of 512 and height of 424, which I didn’t expect the size to be this small. 
-Kinect image vs my laptop screen:
+Kinect image output size vs my laptop screen size:
 <img src = "images/size.png">
 
