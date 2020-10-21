@@ -5,4 +5,10 @@ I think the graphic output might look good if I apply this effect on the particl
 <img src = "images/dreamy.gif">
 
 After I combined the particle system and sensor together, I discover another issue — sensor resolution is too small. I have tried pushMatrix() and popMatrix(), but these two don’t work for my code. So I tried to scale it up, and the function scale() is also scaling up the pixel and so do the graphic output so I have to resize the particle. <br/>
-<img src = "images/scale.png">
+<img src = "images/scale.png" width = 725> 
+
+after resizing the particles, it looks kinda blurry to me, however, the blurriness of graphic turned out to look good when I added illuminate effect on the particles.<br/>
+<img src = "images/blur.png" width = 725> 
+
+
+
