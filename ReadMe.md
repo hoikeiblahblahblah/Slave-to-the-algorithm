@@ -1,5 +1,5 @@
 # Slave To The Algorithm 
-## SKO
+## Studio Knowledge Object
 
 * [Week 1](https://github.com/hoikeiblahblahblah/Slave-to-the-algorithm/tree/master/Week%201)
 * [Week 2](https://github.com/hoikeiblahblahblah/Slave-to-the-algorithm/tree/master/Week%202)
