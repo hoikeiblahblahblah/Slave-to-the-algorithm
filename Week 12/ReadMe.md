@@ -12,7 +12,7 @@ Virus:<br/>
 Green:<br/>
 <img src="images/green.gif">
 
-Since Utopia is an indoor interactive installation, in order to show a clearer idea of the installation, I have made a demonstration video on how the installation works.<br/>
+Since Utopia is an indoor interactive installation, in order to show a clearer idea of the installation, I have made a [demonstration video](https://youtu.be/apVpvDNcP1o) on how the installation works.<br/>
 <img src="images/utopia.gif">
 
 I believe interactive installation is more realistic and easier to integrate into life, which is also the objective of my idea— explores the relationship between normal social life and isolation experience.
