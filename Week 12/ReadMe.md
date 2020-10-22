@@ -17,8 +17,7 @@ Since Utopia is an indoor interactive installation, in order to show a clearer i
 
 I believe interactive installation is more realistic and easier to integrate into life, which is also the objective of my idea— explores the relationship between normal social life and isolation experience.
 
-**Reflection**
-
+**Reflection**<br/>
 My visit to the Borderless World by teamLab early this year has sparked my interests in generative design. I was so excited during the visit, the ambient light was very dim, creating an atmosphere of mystery. The dynamic graphics are projected on the screen and make me feel so connected to the story they are trying to convey in the midst of automation and algorithmic living. The excitement was in my mind and when I saw Slave to the algorithm in the studio gallery, I knew I was going to take this class. 
 
 Generative art is a field that I am new to but I am glad that I have stepped out of my comfort zone.
