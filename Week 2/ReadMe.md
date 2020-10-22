@@ -1,6 +1,6 @@
 # WK 2 thoughts and observations
 
-Last week, we were given an task to create an algorithm system that will help to make decision in our daily life. [**12 hour challege**](https://github.com/hoikeiblahblahblah/Slave-to-the-algorithm/blob/master/Week%201/Pop-up%20Activity.md)<br/>
+Last week, we were given an task to create an algorithm system that will help to make decision in our daily life, links here[**12 hour challege**](https://github.com/hoikeiblahblahblah/Slave-to-the-algorithm/blob/master/Week%201/Pop-up%20Activity.md)<br/>
 
 
 **Useful links:<br/>**
@@ -13,7 +13,9 @@ Manfred Mohr<br/>
 Samuel Monier<br/>
 Lean Pierre Hobort<br/>
 Angelo Plessas | shismadeoftruth.com<br/>
-Raven Kwok | artificial live, reminds you a little of fractal stuffs.
+Raven Kwok | artificial live, reminds you a little of fractal stuffs.<br/>
+I was very impressed by Raven Kwok’s artwork so I did more research about him and I found this beautiful piece of artwork — [Autotroph.OBJ](https://ravenkwok.com/autotroph-obj/). Raven applies sag onto different layers of the acrylic board, customized lighting travels back and forth between those layers, which creates a subtle animation of cell division, it combines digital art with a real 3D space. <br/>
+<img src="images/raven.jpg">
 
 We had our first coding workshop this week and I was very excited to learn and experiment new skills in a field that I have not tried before. It was definitely a good experience for me and I have a better understanding of how processing works.
 
