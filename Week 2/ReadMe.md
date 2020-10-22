@@ -1,5 +1,8 @@
 # WK 2 thoughts and observations
 
+Last week, we were given an task to create an algorithm system that will help to make decision in our daily life. [**12 hour challege**](https://github.com/hoikeiblahblahblah/Slave-to-the-algorithm/blob/master/Week%201/Pop-up%20Activity.md)<br/>
+
+
 **Useful links:<br/>**
 www.processing.org/exhibition <br/>
 www.openprocessing.org
