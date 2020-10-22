@@ -25,6 +25,7 @@ And here's the pseudocode for my project:<br/>
 **END IF** 
 
 **Paper Prototype**<br/>
+This is the paper prototype of my project, if someone moved, pixel raw data will be collected through Kinect sensor, the data will then process through design system and generative artwork. The dynamic artwork will be projected on the wall. <br/>
 <img src = "images/prototype.gif">
 
 **Coding Workshop | Random Letters**<br/>
